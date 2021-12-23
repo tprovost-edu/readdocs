@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Bienvenue dans la documentation de la plateforme What's Sup!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**WHATS SUP API** est le portail de documentation dédié aux développeurs souhaitant utilisé certains modules API de la plateforme à des fins strictement éducatives.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Ce projet est en cours de développement.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Utilisation
+   Les API
